@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/masseffect/varren/CBT_VAR_EYE_Diff_Stack"
+	"$bumpmap" 	"models/masseffect/varren/CBT_VAR_EYE_Norm_Stack"
+}

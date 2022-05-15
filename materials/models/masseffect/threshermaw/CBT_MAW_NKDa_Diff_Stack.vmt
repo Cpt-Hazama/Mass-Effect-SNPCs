@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/masseffect/threshermaw/CBT_MAW_NKDa_Diff_Stack"
+	"$bumpmap" 	"models/masseffect/threshermaw/CBT_MAW_NKDa_Norm_Stack"
+}

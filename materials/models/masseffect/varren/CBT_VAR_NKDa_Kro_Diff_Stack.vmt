@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/masseffect/varren/CBT_VAR_NKDa_Kro_Diff_Stack"
+	"$bumpmap" 	"models/masseffect/varren/CBT_VAR_NKDa_Kro_Norm_Stack"
+	"$normalmapalphaenvmask" 1
+	$envmap "env_cubemap"
+	$envmapmask		"models/masseffect/varren/CBT_VAR_NKDa_Kro_Spwr_Stack"
+}

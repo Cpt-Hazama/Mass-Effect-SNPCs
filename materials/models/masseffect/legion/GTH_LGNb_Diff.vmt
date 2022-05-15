@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/masseffect/legion/GTH_LGNb_Diff"
+	"$bumpmap" 	"models/masseffect/legion/GTH_LGNb_Norm"
+}

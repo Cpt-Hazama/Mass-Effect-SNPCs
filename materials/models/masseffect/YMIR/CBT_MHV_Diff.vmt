@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/masseffect/YMIR/CBT_MHV_Diff"
+	"$bumpmap" 	"models/masseffect/YMIR/CBT_MHV_Norm"
+	"$envmap"		env_cubemap
+	"$envmapmask"	"models/masseffect/YMIR/CBT_MHV_Spec"
+}

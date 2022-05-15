@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/masseffect/weapons/pistolc/WPN_PSTc_Diff"
+	"$normalmap"     "models/masseffect/weapons/pistolc/WPN_PSTc_Norm"
+}
